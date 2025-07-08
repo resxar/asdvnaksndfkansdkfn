@@ -1,0 +1,8 @@
+{
+  "cart_items": [
+    {
+      "name": "<img src=x onerror=console.log('XSS')>",
+      "price": "<script>alert(1)</script>"
+    }
+  ]
+}
